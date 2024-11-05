@@ -1,0 +1,15 @@
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/bin/Debug/net8.0/Mercantec first
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/bin/Debug/net8.0/Mercantec first.deps.json
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/bin/Debug/net8.0/Mercantec first.runtimeconfig.json
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/bin/Debug/net8.0/Mercantec first.dll
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/bin/Debug/net8.0/Mercantec first.pdb
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/Mercantec first.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/Mercantec first.AssemblyInfoInputs.cache
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/Mercantec first.AssemblyInfo.cs
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/Mercantec first.csproj.CoreCompileInputs.cache
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/Mercantec first.sourcelink.json
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/Mercantec first.dll
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/refint/Mercantec first.dll
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/Mercantec first.pdb
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/Mercantec first.genruntimeconfig.cache
+/Users/deuswork/Documents/С-Sharp/Mercantec Den First C-sharp/Mercantec first/obj/Debug/net8.0/ref/Mercantec first.dll
